@@ -1,7 +1,7 @@
-import Meal from "./Meal.js";
-import Product from "./Product.js";
-import FoodLog from "./FoodLog.js";
-import UIManager from "./UIManager.js";
+import Meal from "./meal.js";
+import Product from "./product.js";
+import FoodLog from "./foodLog.js";
+import UIManager from "./uiManager.js";
 
 const foodLog = new FoodLog();
 
